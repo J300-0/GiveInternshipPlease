@@ -1,0 +1,28 @@
+# FastAPI and Server
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# Elasticsearch
+elasticsearch[async]==8.12.0
+
+# Data Validation
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# Environment Management
+python-dotenv==1.0.0
+
+# Additional Dependencies
+aiofiles==23.2.1
+python-multipart==0.0.6
+
+# Anomaly Detection & ML
+pyod==1.1.3
+tsfresh==0.20.2
+scikit-learn==1.3.2
+pandas==2.1.4
+numpy==1.26.2
+
+# Demo & Testing
+flask==3.0.0
+requests==2.31.0
